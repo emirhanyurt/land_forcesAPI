@@ -28,5 +28,5 @@ Add-migration mig2 yazıp enter a basın.
 
 3.Package Manager Console açın
 update-database yazıp enter a basın.
-#Ve API'yi çalıştırın
-İlginiz ve alakanız için  teşekkür ederim
+Ve API'yi çalıştırın.
+İlginiz ve alakanız için  teşekkür ederim.
